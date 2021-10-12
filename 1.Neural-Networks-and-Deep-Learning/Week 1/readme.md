@@ -1,2 +1,2 @@
 # Week 1
-Recurrent Neural Networks
+Introduction to Deep Learning
